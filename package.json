@@ -1,0 +1,23 @@
+{
+  "name": "bigchain-wrapper",
+  "version": "1.0.0",
+  "description": "A customised wrapper around bigchaindb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic65/bigchain-wrapper.git"
+  },
+  "author": "Varun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoic65/bigchain-wrapper/issues"
+  },
+  "homepage": "https://github.com/stoic65/bigchain-wrapper#readme",
+  "dependencies": {
+    "bigchaindb-driver": "^3.2.0",
+    "promise": "^8.0.1"
+  }
+}
