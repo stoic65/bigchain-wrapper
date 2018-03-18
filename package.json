@@ -18,6 +18,7 @@
   "homepage": "https://github.com/stoic65/bigchain-wrapper#readme",
   "dependencies": {
     "bigchaindb-driver": "^3.2.0",
+    "prettyjson": "^1.2.1",
     "promise": "^8.0.1"
   }
 }
